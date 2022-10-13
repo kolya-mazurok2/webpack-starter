@@ -1,3 +1,3 @@
-#Webpack starter
+# Webpack starter
 
 TypeScript, Sass, ESLint, Prettier
